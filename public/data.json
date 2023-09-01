@@ -1,0 +1,51 @@
+[
+    {
+      
+      "name": "Asgar Ali Hospital",
+      "logo": "sunnydale_hospital_logo.png",
+      "place": "Dhaka",
+      "about": "Asgar Ali Hospital is a state-of-the-art medical facility...",
+      "image": "https://1.bp.blogspot.com/-wVw17OJHvAA/Wfhsy6TY7YI/AAAAAAAAMU4/2GH8X9bzgaUWwl_vSugXRGnTRyQ3JBNqgCLcBGAs/s1600/Asgar%2BAli%2BHospital.jpg",
+      "rating": 4.9
+    },
+    {
+      
+      "name": "Anwer Khan Modern",
+      "logo": "sunnydale_hospital_logo.png",
+      "place": "Dhaka",
+      "about": "Anwer Khan Modern Hospital is a state-of-the-art medical facility...",
+      "image": "https://akmmc.edu.bd/wp-content/uploads/2021/01/1.jpg",
+      "rating": 4.9
+      
+    },
+    {
+      
+      "name": "BRB Hospital",
+      "logo": "sunnydale_hospital_logo.png",
+      "place": "Dhaka",
+      "about": "BRB Hospital is a state-of-the-art medical facility...",
+      "image": "https://www.brbhospital.com/wp-content/uploads/2022/04/BRB-Hospital.jpg",
+      "rating": 4.5
+    },
+    {
+   
+      "name": "Ibn Sina Hospital",
+      "logo": "sunnydale_hospital_logo.png",
+      "place": "Dhaka",
+      "about": "Ibn Sina Hospital is a state-of-the-art medical facility...",
+      "image": "https://i.ibb.co/KbVhhtH/Ibn-Sina-Diagnostic-Consultation-Center-Jatrabari.jpg",
+      "rating": 4.9
+    },
+    {
+      
+      "name": "Greenway Medical Center",
+      "logo": "greenway_center_logo.png",
+      "place": "Chittagong",
+      "about": "Greenway Medical Center provides comprehensive healthcare...",
+      "image": "https://thecitymenus.com/wp-content/uploads/2017/12/BXv_gATIIAARXD7.jpg-large.jpeg",
+      "rating": 4.7
+      
+    }
+   
+  ]
+  

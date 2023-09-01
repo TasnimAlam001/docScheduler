@@ -1,0 +1,1112 @@
+[
+    {
+        "hospital": "Asgar Ali Hospital",
+        "name": "Dr. Sarah Patel",
+        "about": "Dr. Sarah Patel is a renowned cardiologist...",
+        "photo": "https://www.lasertreat.com.bd/public/images/doctors/Dr.-Sumayea-Binte-Mizan.jpeg",
+        "specialties": [
+            "Cardiology",
+            "Internal Medicine",
+            "Electrophysiology",
+            "Heart Failure"
+        ],
+        "appointment_time": "10:00 AM - 12:00 PM",
+        "off_days": [
+            "Sunday",
+            "Thursday"
+        ],
+        "cost_per_appointment": "$50",
+        "experience": "15+ years of experience",
+        "rating": 4.5,
+        "office_location": "123 Main Street, Suite 101, Cityville, Dhaka, Bangladesh",
+        "contact_info": {
+            "email": "dr.sarah@example.com",
+            "whatsapp": "+1 (555) 123-4567"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "John Doe",
+                "rating": 5,
+                "comment": "Dr. Patel is an excellent cardiologist. She provided me with great care and guidance."
+            },
+            {
+                "reviewer_name": "Jane Smith",
+                "rating": 4,
+                "comment": "I had a positive experience with Dr. Patel. She explained my condition well."
+            }
+        ]
+    },
+    {
+        "hospital": "Asgar Ali Hospital",
+        "name": "Dr. James Miller",
+        "about": "Dr. James Miller specializes in orthopedic surgery...",
+        "photo": "https://www.lasertreat.com.bd/public/images/doctors/Dr.-Sumayea-Binte-Mizan.jpeg",
+        "specialties": [
+            "Orthopedics",
+            "Sports Medicine",
+            "Spinal Surgery",
+            "Joint Replacement"
+        ],
+        "appointment_time": "2:00 PM - 4:00 PM",
+        "off_days": [
+            "Monday",
+            "Friday"
+        ],
+        "cost_per_appointment": "$60",
+        "experience": "15+ years of experience",
+        "rating": 4.5,
+        "office_location": "123 Main Street, Suite 101, Cityville, Dhaka, Bangladesh",
+        "contact_info": {
+            "email": "dr.sarah@example.com",
+            "whatsapp": "+1 (555) 123-4567"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "Alice Johnson",
+                "rating": 5,
+                "comment": "Dr. Miller is a skilled orthopedic surgeon. He helped me recover from my injury quickly."
+            },
+            {
+                "reviewer_name": "Bob Anderson",
+                "rating": 4,
+                "comment": "I would recommend Dr. Miller for orthopedic issues. He was attentive to my needs."
+            }
+        ]
+    },
+    {
+        "hospital": "Greenway Medical Center",
+        "name": "Dr. Olivia Davis",
+        "about": "Dr. Olivia Davis is a dedicated pediatrician...",
+        "photo": "https://doctime.com.bd/images/homepage/consultation-card-images/04.png",
+        "specialties": [
+            "Pediatrics",
+            "Child Development",
+            "Allergy and Immunology",
+            "Adolescent Medicine"
+        ],
+        "appointment_time": "9:00 AM - 11:00 AM",
+        "off_days": [
+            "Tuesday",
+            "Saturday"
+        ],
+        "cost_per_appointment": "$40",
+        "experience": "15+ years of experience",
+        "rating": 4.5,
+        "office_location": "123 Main Street, Suite 101, Cityville, Dhaka, Bangladesh",
+        "contact_info": {
+            "email": "dr.sarah@example.com",
+            "whatsapp": "+1 (555) 123-4567"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "Emily Wilson",
+                "rating": 4,
+                "comment": "Dr. Davis is great with kids. My child felt comfortable during the visit."
+            },
+            {
+                "reviewer_name": "David Lee",
+                "rating": 5,
+                "comment": "I trust Dr. Davis with my child's healthcare. She is knowledgeable and caring."
+            }
+        ]
+    },
+    {
+        "hospital": "Anwer Khan Modern",
+        "name": "Dr. Michael Johnson",
+        "about": "Dr. Michael Johnson is a skilled gastroenterologist...",
+        "photo": "https://www.lasertreat.com.bd/public/images/doctors/Dr.-Sumayea-Binte-Mizan.jpeg",
+        "specialties": [
+            "Gastroenterology",
+            "Digestive Disorders",
+            "Endoscopy",
+            "Hepatology"
+        ],
+        "appointment_time": "3:00 PM - 5:00 PM",
+        "off_days": [
+            "Wednesday",
+            "Sunday"
+        ],
+        "cost_per_appointment": "$55",
+        "experience": "15+ years of experience",
+        "rating": 4.5,
+        "office_location": "123 Main Street, Suite 101, Cityville, Dhaka, Bangladesh",
+        "contact_info": {
+            "email": "dr.sarah@example.com",
+            "whatsapp": "+1 (555) 123-4567"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "Linda Smith",
+                "rating": 5,
+                "comment": "Dr. Johnson provided excellent care for my digestive issues. Highly recommended."
+            },
+            {
+                "reviewer_name": "Robert Brown",
+                "rating": 4,
+                "comment": "I had a positive experience with Dr. Johnson. He is thorough and attentive."
+            }
+        ]
+    },
+    {
+        "hospital": "BRB Hospital",
+        "name": "Dr. Jennifer White",
+        "about": "Dr. Jennifer White specializes in neurology...",
+        "photo": "https://doctime.com.bd/images/homepage/consultation-card-images/04.png",
+        "specialties": [
+            "Neurology",
+            "Headaches",
+            "Epilepsy",
+            "Neuromuscular Disorders"
+        ],
+        "appointment_time": "10:00 AM - 12:00 PM",
+        "off_days": [
+            "Thursday",
+            "Saturday"
+        ],
+        "cost_per_appointment": "$60",
+        "experience": "15+ years of experience",
+        "rating": 4.5,
+        "office_location": "123 Main Street, Suite 101, Cityville, Dhaka, Bangladesh",
+        "contact_info": {
+            "email": "dr.sarah@example.com",
+            "whatsapp": "+1 (555) 123-4567"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "Mark Johnson",
+                "rating": 5,
+                "comment": "Dr. White is a brilliant neurologist. She helped me manage my condition effectively."
+            },
+            {
+                "reviewer_name": "Susan Davis",
+                "rating": 4,
+                "comment": "I had a positive experience with Dr. White. She is compassionate and knowledgeable."
+            }
+        ]
+    },
+    {
+        "hospital": "Ibn Sina Hospital",
+        "name": "Dr. William Clark",
+        "about": "Dr. William Clark is a leading dermatologist...",
+        "photo": "https://www.lasertreat.com.bd/public/images/doctors/Dr.-Sumayea-Binte-Mizan.jpeg",
+        "specialties": [
+            "Dermatology",
+            "Cosmetic Dermatology",
+            "Skin Cancer",
+            "Acne Treatment"
+        ],
+        "appointment_time": "2:00 PM - 4:00 PM",
+        "off_days": [
+            "Monday",
+            "Wednesday"
+        ],
+        "cost_per_appointment": "$70",
+        "experience": "15+ years of experience",
+        "rating": 4.5,
+        "office_location": "123 Main Street, Suite 101, Cityville, Dhaka, Bangladesh",
+        "contact_info": {
+            "email": "dr.sarah@example.com",
+            "whatsapp": "+1 (555) 123-4567"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "Mary Wilson",
+                "rating": 5,
+                "comment": "Dr. Clark is an expert in dermatology. He helped me with my skin issues effectively."
+            },
+            {
+                "reviewer_name": "John Anderson",
+                "rating": 4,
+                "comment": "I had a positive experience with Dr. Clark. He provided me with clear treatment options."
+            }
+        ]
+    },
+    {
+        "hospital": "Ibn Sina Hospital",
+        "name": "Dr. Emma Taylor",
+        "about": "Dr. Emma Taylor is a skilled ophthalmologist...",
+        "photo": "https://doctime.com.bd/images/homepage/consultation-card-images/04.png",
+        "specialties": [
+            "Ophthalmology",
+            "Cataract Surgery",
+            "Retina Specialist",
+            "Glaucoma"
+        ],
+        "appointment_time": "9:00 AM - 11:00 AM",
+        "off_days": [
+            "Tuesday",
+            "Friday"
+        ],
+        "cost_per_appointment": "$65",
+        "experience": "15+ years of experience",
+        "rating": 4.5,
+        "office_location": "123 Main Street, Suite 101, Cityville, Dhaka, Bangladesh",
+        "contact_info": {
+            "email": "dr.sarah@example.com",
+            "whatsapp": "+1 (555) 123-4567"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "Richard Smith",
+                "rating": 5,
+                "comment": "Dr. Taylor performed my cataract surgery with precision. My vision has improved significantly."
+            },
+            {
+                "reviewer_name": "Laura Brown",
+                "rating": 4,
+                "comment": "I highly recommend Dr. Taylor for eye care. She is a caring and competent ophthalmologist."
+            }
+        ]
+    },
+    {
+        "hospital": "Ibn Sina Hospital",
+        "name": "Dr. Daniel Garcia",
+        "about": "Dr. Daniel Garcia is a skilled rheumatologist...",
+        "photo": "https://doctime.com.bd/images/homepage/consultation-card-images/04.png",
+        "specialties": [
+            "Rheumatology",
+            "Arthritis",
+            "Autoimmune Diseases",
+            "Osteoporosis"
+        ],
+        "appointment_time": "2:00 PM - 4:00 PM",
+        "off_days": [
+            "Thursday",
+            "Saturday"
+        ],
+        "cost_per_appointment": "$75",
+        "experience": "15+ years of experience",
+        "rating": 4.5,
+        "office_location": "123 Main Street, Suite 101, Cityville, Dhaka, Bangladesh",
+        "contact_info": {
+            "email": "dr.sarah@example.com",
+            "whatsapp": "+1 (555) 123-4567"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "Elizabeth Adams",
+                "rating": 5,
+                "comment": "Dr. Garcia is an excellent rheumatologist. He helped me manage my arthritis effectively."
+            },
+            {
+                "reviewer_name": "George Martin",
+                "rating": 4,
+                "comment": "I had a positive experience with Dr. Garcia. He is caring and attentive."
+            }
+        ]
+    },
+    {
+        "hospital": "BRB Hospital",
+        "name": "Dr. Laura Roberts",
+        "about": "Dr. Laura Roberts is a skilled dentist...",
+        "photo": "https://doctime.com.bd/images/homepage/consultation-card-images/04.png",
+        "specialties": [
+            "Dentistry",
+            "Oral Surgery",
+            "Cosmetic Dentistry",
+            "Orthodontics"
+        ],
+        "appointment_time": "9:00 AM - 11:00 AM",
+        "off_days": [
+            "Wednesday",
+            "Sunday"
+        ],
+        "cost_per_appointment": "$80",
+        "experience": "15+ years of experience",
+        "rating": 4.5,
+        "office_location": "123 Main Street, Suite 101, Cityville, Dhaka, Bangladesh",
+        "contact_info": {
+            "email": "dr.sarah@example.com",
+            "whatsapp": "+1 (555) 123-4567"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "William Johnson",
+                "rating": 5,
+                "comment": "Dr. Roberts is an excellent dentist. She performed my oral surgery with care and precision."
+            },
+            {
+                "reviewer_name": "Sophia Clark",
+                "rating": 4,
+                "comment": "I had a positive experience with Dr. Roberts. She is gentle and professional."
+            }
+        ]
+    },
+    {
+        "hospital": "BRB Hospital",
+        "name": "Dr. Richard Lee",
+        "about": "Dr. Richard Lee is a leading cardiovascular surgeon...",
+        "photo": "https://doctime.com.bd/images/homepage/consultation-card-images/04.png",
+        "specialties": [
+            "Cardiovascular Surgery",
+            "Heart Transplants",
+            "Vascular Surgery",
+            "Cardiac Rehabilitation"
+        ],
+        "appointment_time": "3:00 PM - 5:00 PM",
+        "off_days": [
+            "Monday",
+            "Saturday"
+        ],
+        "cost_per_appointment": "$90",
+        "experience": "15+ years of experience",
+        "rating": 4.5,
+        "office_location": "123 Main Street, Suite 101, Cityville, Dhaka, Bangladesh",
+        "contact_info": {
+            "email": "dr.sarah@example.com",
+            "whatsapp": "+1 (555) 123-4567"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "Olivia Adams",
+                "rating": 5,
+                "comment": "Dr. Lee is an outstanding cardiovascular surgeon. He performed my heart transplant successfully."
+            },
+            {
+                "reviewer_name": "James Martin",
+                "rating": 4,
+                "comment": "I highly recommend Dr. Lee for cardiac surgery. He is skilled and compassionate."
+            }
+        ]
+    },
+    {
+        "hospital": "Asgar Ali Hospital",
+        "name": "Dr. Sarah Patel",
+        "about": "Dr. Sarah Patel is a renowned cardiologist...",
+        "photo": "https://www.lasertreat.com.bd/public/images/doctors/Dr.-Sumayea-Binte-Mizan.jpeg",
+        "specialties": [
+            "Cardiology",
+            "Internal Medicine",
+            "Electrophysiology",
+            "Heart Failure"
+        ],
+        "appointment_time": "10:00 AM - 12:00 PM",
+        "off_days": [
+            "Sunday",
+            "Thursday"
+        ],
+        "cost_per_appointment": "$50",
+        "experience": "15+ years of experience",
+        "rating": 4.5,
+        "office_location": "123 Main Street, Suite 101, Cityville, Dhaka, Bangladesh",
+        "contact_info": {
+            "email": "dr.sarah@example.com",
+            "whatsapp": "+1 (555) 123-4567"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "John Doe",
+                "rating": 5,
+                "comment": "Dr. Patel is an excellent cardiologist. She provided me with great care and guidance."
+            },
+            {
+                "reviewer_name": "Jane Smith",
+                "rating": 4,
+                "comment": "I had a positive experience with Dr. Patel. She explained my condition well."
+            }
+        ]
+    },
+    {
+        "hospital": "Asgar Ali Hospital",
+        "name": "Dr. James Miller",
+        "about": "Dr. James Miller specializes in orthopedic surgery...",
+        "photo": "https://www.lasertreat.com.bd/public/images/doctors/Dr.-Sumayea-Binte-Mizan.jpeg",
+        "specialties": [
+            "Orthopedics",
+            "Sports Medicine",
+            "Spinal Surgery",
+            "Joint Replacement"
+        ],
+        "appointment_time": "2:00 PM - 4:00 PM",
+        "off_days": [
+            "Monday",
+            "Friday"
+        ],
+        "cost_per_appointment": "$60",
+        "experience": "15+ years of experience",
+        "rating": 4.5,
+        "office_location": "123 Main Street, Suite 101, Cityville, Dhaka, Bangladesh",
+        "contact_info": {
+            "email": "dr.sarah@example.com",
+            "whatsapp": "+1 (555) 123-4567"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "Alice Johnson",
+                "rating": 5,
+                "comment": "Dr. Miller is a skilled orthopedic surgeon. He helped me recover from my injury quickly."
+            },
+            {
+                "reviewer_name": "Bob Anderson",
+                "rating": 4,
+                "comment": "I would recommend Dr. Miller for orthopedic issues. He was attentive to my needs."
+            }
+        ]
+    },
+    {
+        "hospital": "Greenway Medical Center",
+        "name": "Dr. Olivia Davis",
+        "about": "Dr. Olivia Davis is a dedicated pediatrician...",
+        "photo": "https://doctime.com.bd/images/homepage/consultation-card-images/04.png",
+        "specialties": [
+            "Pediatrics",
+            "Child Development",
+            "Allergy and Immunology",
+            "Adolescent Medicine"
+        ],
+        "appointment_time": "9:00 AM - 11:00 AM",
+        "off_days": [
+            "Tuesday",
+            "Saturday"
+        ],
+        "cost_per_appointment": "$40",
+        "experience": "15+ years of experience",
+        "rating": 4.5,
+        "office_location": "123 Main Street, Suite 101, Cityville, Dhaka, Bangladesh",
+        "contact_info": {
+            "email": "dr.sarah@example.com",
+            "whatsapp": "+1 (555) 123-4567"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "Emily Wilson",
+                "rating": 4,
+                "comment": "Dr. Davis is great with kids. My child felt comfortable during the visit."
+            },
+            {
+                "reviewer_name": "David Lee",
+                "rating": 5,
+                "comment": "I trust Dr. Davis with my child's healthcare. She is knowledgeable and caring."
+            }
+        ]
+    },
+    {
+        "hospital": "Anwer Khan Modern",
+        "name": "Dr. Michael Johnson",
+        "about": "Dr. Michael Johnson is a skilled gastroenterologist...",
+        "photo": "https://www.lasertreat.com.bd/public/images/doctors/Dr.-Sumayea-Binte-Mizan.jpeg",
+        "specialties": [
+            "Gastroenterology",
+            "Digestive Disorders",
+            "Endoscopy",
+            "Hepatology"
+        ],
+        "appointment_time": "3:00 PM - 5:00 PM",
+        "off_days": [
+            "Wednesday",
+            "Sunday"
+        ],
+        "cost_per_appointment": "$55",
+        "experience": "15+ years of experience",
+        "rating": 4.5,
+        "office_location": "123 Main Street, Suite 101, Cityville, Dhaka, Bangladesh",
+        "contact_info": {
+            "email": "dr.sarah@example.com",
+            "whatsapp": "+1 (555) 123-4567"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "Linda Smith",
+                "rating": 5,
+                "comment": "Dr. Johnson provided excellent care for my digestive issues. Highly recommended."
+            },
+            {
+                "reviewer_name": "Robert Brown",
+                "rating": 4,
+                "comment": "I had a positive experience with Dr. Johnson. He is thorough and attentive."
+            }
+        ]
+    },
+    {
+        "hospital": "BRB Hospital",
+        "name": "Dr. Jennifer White",
+        "about": "Dr. Jennifer White specializes in neurology...",
+        "photo": "https://doctime.com.bd/images/homepage/consultation-card-images/04.png",
+        "specialties": [
+            "Neurology",
+            "Headaches",
+            "Epilepsy",
+            "Neuromuscular Disorders"
+        ],
+        "appointment_time": "10:00 AM - 12:00 PM",
+        "off_days": [
+            "Thursday",
+            "Saturday"
+        ],
+        "cost_per_appointment": "$60",
+        "experience": "15+ years of experience",
+        "rating": 4.5,
+        "office_location": "123 Main Street, Suite 101, Cityville, Dhaka, Bangladesh",
+        "contact_info": {
+            "email": "dr.sarah@example.com",
+            "whatsapp": "+1 (555) 123-4567"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "Mark Johnson",
+                "rating": 5,
+                "comment": "Dr. White is a brilliant neurologist. She helped me manage my condition effectively."
+            },
+            {
+                "reviewer_name": "Susan Davis",
+                "rating": 4,
+                "comment": "I had a positive experience with Dr. White. She is compassionate and knowledgeable."
+            }
+        ]
+    },
+    {
+        "hospital": "Ibn Sina Hospital",
+        "name": "Dr. William Clark",
+        "about": "Dr. William Clark is a leading dermatologist...",
+        "photo": "https://www.lasertreat.com.bd/public/images/doctors/Dr.-Sumayea-Binte-Mizan.jpeg",
+        "specialties": [
+            "Dermatology",
+            "Cosmetic Dermatology",
+            "Skin Cancer",
+            "Acne Treatment"
+        ],
+        "appointment_time": "2:00 PM - 4:00 PM",
+        "off_days": [
+            "Monday",
+            "Wednesday"
+        ],
+        "cost_per_appointment": "$70",
+        "experience": "15+ years of experience",
+        "rating": 4.5,
+        "office_location": "123 Main Street, Suite 101, Cityville, Dhaka, Bangladesh",
+        "contact_info": {
+            "email": "dr.sarah@example.com",
+            "whatsapp": "+1 (555) 123-4567"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "Mary Wilson",
+                "rating": 5,
+                "comment": "Dr. Clark is an expert in dermatology. He helped me with my skin issues effectively."
+            },
+            {
+                "reviewer_name": "John Anderson",
+                "rating": 4,
+                "comment": "I had a positive experience with Dr. Clark. He provided me with clear treatment options."
+            }
+        ]
+    },
+    {
+        "hospital": "Ibn Sina Hospital",
+        "name": "Dr. Emma Taylor",
+        "about": "Dr. Emma Taylor is a skilled ophthalmologist...",
+        "photo": "https://doctime.com.bd/images/homepage/consultation-card-images/04.png",
+        "specialties": [
+            "Ophthalmology",
+            "Cataract Surgery",
+            "Retina Specialist",
+            "Glaucoma"
+        ],
+        "appointment_time": "9:00 AM - 11:00 AM",
+        "off_days": [
+            "Tuesday",
+            "Friday"
+        ],
+        "cost_per_appointment": "$65",
+        "experience": "15+ years of experience",
+        "rating": 4.5,
+        "office_location": "123 Main Street, Suite 101, Cityville, Dhaka, Bangladesh",
+        "contact_info": {
+            "email": "dr.sarah@example.com",
+            "whatsapp": "+1 (555) 123-4567"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "Richard Smith",
+                "rating": 5,
+                "comment": "Dr. Taylor performed my cataract surgery with precision. My vision has improved significantly."
+            },
+            {
+                "reviewer_name": "Laura Brown",
+                "rating": 4,
+                "comment": "I highly recommend Dr. Taylor for eye care. She is a caring and competent ophthalmologist."
+            }
+        ]
+    },
+    {
+        "hospital": "Ibn Sina Hospital",
+        "name": "Dr. Daniel Garcia",
+        "about": "Dr. Daniel Garcia is a skilled rheumatologist...",
+        "photo": "https://doctime.com.bd/images/homepage/consultation-card-images/04.png",
+        "specialties": [
+            "Rheumatology",
+            "Arthritis",
+            "Autoimmune Diseases",
+            "Osteoporosis"
+        ],
+        "appointment_time": "2:00 PM - 4:00 PM",
+        "off_days": [
+            "Thursday",
+            "Saturday"
+        ],
+        "cost_per_appointment": "$75",
+        "experience": "15+ years of experience",
+        "rating": 4.5,
+        "office_location": "123 Main Street, Suite 101, Cityville, Dhaka, Bangladesh",
+        "contact_info": {
+            "email": "dr.sarah@example.com",
+            "whatsapp": "+1 (555) 123-4567"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "Elizabeth Adams",
+                "rating": 5,
+                "comment": "Dr. Garcia is an excellent rheumatologist. He helped me manage my arthritis effectively."
+            },
+            {
+                "reviewer_name": "George Martin",
+                "rating": 4,
+                "comment": "I had a positive experience with Dr. Garcia. He is caring and attentive."
+            }
+        ]
+    },
+    {
+        "hospital": "BRB Hospital",
+        "name": "Dr. Laura Roberts",
+        "about": "Dr. Laura Roberts is a skilled dentist...",
+        "photo": "https://doctime.com.bd/images/homepage/consultation-card-images/04.png",
+        "specialties": [
+            "Dentistry",
+            "Oral Surgery",
+            "Cosmetic Dentistry",
+            "Orthodontics"
+        ],
+        "appointment_time": "9:00 AM - 11:00 AM",
+        "off_days": [
+            "Wednesday",
+            "Sunday"
+        ],
+        "cost_per_appointment": "$80",
+        "experience": "15+ years of experience",
+        "rating": 4.5,
+        "office_location": "123 Main Street, Suite 101, Cityville, Dhaka, Bangladesh",
+        "contact_info": {
+            "email": "dr.sarah@example.com",
+            "whatsapp": "+1 (555) 123-4567"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "William Johnson",
+                "rating": 5,
+                "comment": "Dr. Roberts is an excellent dentist. She performed my oral surgery with care and precision."
+            },
+            {
+                "reviewer_name": "Sophia Clark",
+                "rating": 4,
+                "comment": "I had a positive experience with Dr. Roberts. She is gentle and professional."
+            }
+        ]
+    },
+    {
+        "hospital": "BRB Hospital",
+        "name": "Dr. Richard Lee",
+        "about": "Dr. Richard Lee is a leading cardiovascular surgeon...",
+        "photo": "https://doctime.com.bd/images/homepage/consultation-card-images/04.png",
+        "specialties": [
+            "Cardiovascular Surgery",
+            "Heart Transplants",
+            "Vascular Surgery",
+            "Cardiac Rehabilitation"
+        ],
+        "appointment_time": "3:00 PM - 5:00 PM",
+        "off_days": [
+            "Monday",
+            "Saturday"
+        ],
+        "cost_per_appointment": "$90",
+        "experience": "15+ years of experience",
+        "rating": 4.5,
+        "office_location": "123 Main Street, Suite 101, Cityville, Dhaka, Bangladesh",
+        "contact_info": {
+            "email": "dr.sarah@example.com",
+            "whatsapp": "+1 (555) 123-4567"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "Olivia Adams",
+                "rating": 5,
+                "comment": "Dr. Lee is an outstanding cardiovascular surgeon. He performed my heart transplant successfully."
+            },
+            {
+                "reviewer_name": "James Martin",
+                "rating": 4,
+                "comment": "I highly recommend Dr. Lee for cardiac surgery. He is skilled and compassionate."
+            }
+        ]
+    },
+    {
+        "hospital": "Asgar Ali Hospital",
+        "name": "Dr. Sarah Patel",
+        "about": "Dr. Sarah Patel is a renowned cardiologist...",
+        "photo": "https://www.lasertreat.com.bd/public/images/doctors/Dr.-Sumayea-Binte-Mizan.jpeg",
+        "specialties": [
+            "Cardiology",
+            "Internal Medicine",
+            "Electrophysiology",
+            "Heart Failure"
+        ],
+        "appointment_time": "10:00 AM - 12:00 PM",
+        "off_days": [
+            "Sunday",
+            "Thursday"
+        ],
+        "cost_per_appointment": "$50",
+        "experience": "15+ years of experience",
+        "rating": 4.5,
+        "office_location": "123 Main Street, Suite 101, Cityville, Dhaka, Bangladesh",
+        "contact_info": {
+            "email": "dr.sarah@example.com",
+            "whatsapp": "+1 (555) 123-4567"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "John Doe",
+                "rating": 5,
+                "comment": "Dr. Patel is an excellent cardiologist. She provided me with great care and guidance."
+            },
+            {
+                "reviewer_name": "Jane Smith",
+                "rating": 4,
+                "comment": "I had a positive experience with Dr. Patel. She explained my condition well."
+            }
+        ]
+    },
+    {
+        "hospital": "Asgar Ali Hospital",
+        "name": "Dr. James Miller",
+        "about": "Dr. James Miller specializes in orthopedic surgery...",
+        "photo": "https://www.lasertreat.com.bd/public/images/doctors/Dr.-Sumayea-Binte-Mizan.jpeg",
+        "specialties": [
+            "Orthopedics",
+            "Sports Medicine",
+            "Spinal Surgery",
+            "Joint Replacement"
+        ],
+        "appointment_time": "2:00 PM - 4:00 PM",
+        "off_days": [
+            "Monday",
+            "Friday"
+        ],
+        "cost_per_appointment": "$60",
+        "experience": "15+ years of experience",
+        "rating": 4.5,
+        "office_location": "123 Main Street, Suite 101, Cityville, Dhaka, Bangladesh",
+        "contact_info": {
+            "email": "dr.sarah@example.com",
+            "whatsapp": "+1 (555) 123-4567"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "Alice Johnson",
+                "rating": 5,
+                "comment": "Dr. Miller is a skilled orthopedic surgeon. He helped me recover from my injury quickly."
+            },
+            {
+                "reviewer_name": "Bob Anderson",
+                "rating": 4,
+                "comment": "I would recommend Dr. Miller for orthopedic issues. He was attentive to my needs."
+            }
+        ]
+    },
+    {
+        "hospital": "Greenway Medical Center",
+        "name": "Dr. Olivia Davis",
+        "about": "Dr. Olivia Davis is a dedicated pediatrician...",
+        "photo": "https://doctime.com.bd/images/homepage/consultation-card-images/04.png",
+        "specialties": [
+            "Pediatrics",
+            "Child Development",
+            "Allergy and Immunology",
+            "Adolescent Medicine"
+        ],
+        "appointment_time": "9:00 AM - 11:00 AM",
+        "off_days": [
+            "Tuesday",
+            "Saturday"
+        ],
+        "cost_per_appointment": "$40",
+        "experience": "15+ years of experience",
+        "rating": 4.5,
+        "office_location": "123 Main Street, Suite 101, Cityville, Dhaka, Bangladesh",
+        "contact_info": {
+            "email": "dr.sarah@example.com",
+            "whatsapp": "+1 (555) 123-4567"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "Emily Wilson",
+                "rating": 4,
+                "comment": "Dr. Davis is great with kids. My child felt comfortable during the visit."
+            },
+            {
+                "reviewer_name": "David Lee",
+                "rating": 5,
+                "comment": "I trust Dr. Davis with my child's healthcare. She is knowledgeable and caring."
+            }
+        ]
+    },
+    {
+        "hospital": "Anwer Khan Modern",
+        "name": "Dr. Michael Johnson",
+        "about": "Dr. Michael Johnson is a skilled gastroenterologist...",
+        "photo": "https://www.lasertreat.com.bd/public/images/doctors/Dr.-Sumayea-Binte-Mizan.jpeg",
+        "specialties": [
+            "Gastroenterology",
+            "Digestive Disorders",
+            "Endoscopy",
+            "Hepatology"
+        ],
+        "appointment_time": "3:00 PM - 5:00 PM",
+        "off_days": [
+            "Wednesday",
+            "Sunday"
+        ],
+        "cost_per_appointment": "$55",
+        "experience": "15+ years of experience",
+        "rating": 4.5,
+        "office_location": "123 Main Street, Suite 101, Cityville, Dhaka, Bangladesh",
+        "contact_info": {
+            "email": "dr.sarah@example.com",
+            "whatsapp": "+1 (555) 123-4567"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "Linda Smith",
+                "rating": 5,
+                "comment": "Dr. Johnson provided excellent care for my digestive issues. Highly recommended."
+            },
+            {
+                "reviewer_name": "Robert Brown",
+                "rating": 4,
+                "comment": "I had a positive experience with Dr. Johnson. He is thorough and attentive."
+            }
+        ]
+    },
+    {
+        "hospital": "BRB Hospital",
+        "name": "Dr. Jennifer White",
+        "about": "Dr. Jennifer White specializes in neurology...",
+        "photo": "https://doctime.com.bd/images/homepage/consultation-card-images/04.png",
+        "specialties": [
+            "Neurology",
+            "Headaches",
+            "Epilepsy",
+            "Neuromuscular Disorders"
+        ],
+        "appointment_time": "10:00 AM - 12:00 PM",
+        "off_days": [
+            "Thursday",
+            "Saturday"
+        ],
+        "cost_per_appointment": "$60",
+        "experience": "15+ years of experience",
+        "rating": 4.5,
+        "office_location": "123 Main Street, Suite 101, Cityville, Dhaka, Bangladesh",
+        "contact_info": {
+            "email": "dr.sarah@example.com",
+            "whatsapp": "+1 (555) 123-4567"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "Mark Johnson",
+                "rating": 5,
+                "comment": "Dr. White is a brilliant neurologist. She helped me manage my condition effectively."
+            },
+            {
+                "reviewer_name": "Susan Davis",
+                "rating": 4,
+                "comment": "I had a positive experience with Dr. White. She is compassionate and knowledgeable."
+            }
+        ]
+    },
+    {
+        "hospital": "Ibn Sina Hospital",
+        "name": "Dr. William Clark",
+        "about": "Dr. William Clark is a leading dermatologist...",
+        "photo": "https://www.lasertreat.com.bd/public/images/doctors/Dr.-Sumayea-Binte-Mizan.jpeg",
+        "specialties": [
+            "Dermatology",
+            "Cosmetic Dermatology",
+            "Skin Cancer",
+            "Acne Treatment"
+        ],
+        "appointment_time": "2:00 PM - 4:00 PM",
+        "off_days": [
+            "Monday",
+            "Wednesday"
+        ],
+        "cost_per_appointment": "$70",
+        "experience": "15+ years of experience",
+        "rating": 4.5,
+        "office_location": "123 Main Street, Suite 101, Cityville, Dhaka, Bangladesh",
+        "contact_info": {
+            "email": "dr.sarah@example.com",
+            "whatsapp": "+1 (555) 123-4567"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "Mary Wilson",
+                "rating": 5,
+                "comment": "Dr. Clark is an expert in dermatology. He helped me with my skin issues effectively."
+            },
+            {
+                "reviewer_name": "John Anderson",
+                "rating": 4,
+                "comment": "I had a positive experience with Dr. Clark. He provided me with clear treatment options."
+            }
+        ]
+    },
+    {
+        "hospital": "Ibn Sina Hospital",
+        "name": "Dr. Emma Taylor",
+        "about": "Dr. Emma Taylor is a skilled ophthalmologist...",
+        "photo": "https://doctime.com.bd/images/homepage/consultation-card-images/04.png",
+        "specialties": [
+            "Ophthalmology",
+            "Cataract Surgery",
+            "Retina Specialist",
+            "Glaucoma"
+        ],
+        "appointment_time": "9:00 AM - 11:00 AM",
+        "off_days": [
+            "Tuesday",
+            "Friday"
+        ],
+        "cost_per_appointment": "$65",
+        "experience": "15+ years of experience",
+        "rating": 4.5,
+        "office_location": "123 Main Street, Suite 101, Cityville, Dhaka, Bangladesh",
+        "contact_info": {
+            "email": "dr.sarah@example.com",
+            "whatsapp": "+1 (555) 123-4567"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "Richard Smith",
+                "rating": 5,
+                "comment": "Dr. Taylor performed my cataract surgery with precision. My vision has improved significantly."
+            },
+            {
+                "reviewer_name": "Laura Brown",
+                "rating": 4,
+                "comment": "I highly recommend Dr. Taylor for eye care. She is a caring and competent ophthalmologist."
+            }
+        ]
+    },
+    {
+        "hospital": "Ibn Sina Hospital",
+        "name": "Dr. Daniel Garcia",
+        "about": "Dr. Daniel Garcia is a skilled rheumatologist...",
+        "photo": "https://doctime.com.bd/images/homepage/consultation-card-images/04.png",
+        "specialties": [
+            "Rheumatology",
+            "Arthritis",
+            "Autoimmune Diseases",
+            "Osteoporosis"
+        ],
+        "appointment_time": "2:00 PM - 4:00 PM",
+        "off_days": [
+            "Thursday",
+            "Saturday"
+        ],
+        "cost_per_appointment": "$75",
+        "experience": "15+ years of experience",
+        "rating": 4.5,
+        "office_location": "123 Main Street, Suite 101, Cityville, Dhaka, Bangladesh",
+        "contact_info": {
+            "email": "dr.sarah@example.com",
+            "whatsapp": "+1 (555) 123-4567"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "Elizabeth Adams",
+                "rating": 5,
+                "comment": "Dr. Garcia is an excellent rheumatologist. He helped me manage my arthritis effectively."
+            },
+            {
+                "reviewer_name": "George Martin",
+                "rating": 4,
+                "comment": "I had a positive experience with Dr. Garcia. He is caring and attentive."
+            }
+        ]
+    },
+    {
+        "hospital": "BRB Hospital",
+        "name": "Dr. Laura Roberts",
+        "about": "Dr. Laura Roberts is a skilled dentist...",
+        "photo": "https://doctime.com.bd/images/homepage/consultation-card-images/04.png",
+        "specialties": [
+            "Dentistry",
+            "Oral Surgery",
+            "Cosmetic Dentistry",
+            "Orthodontics"
+        ],
+        "appointment_time": "9:00 AM - 11:00 AM",
+        "off_days": [
+            "Wednesday",
+            "Sunday"
+        ],
+        "cost_per_appointment": "$80",
+        "experience": "15+ years of experience",
+        "rating": 4.5,
+        "office_location": "123 Main Street, Suite 101, Cityville, Dhaka, Bangladesh",
+        "contact_info": {
+            "email": "dr.sarah@example.com",
+            "whatsapp": "+1 (555) 123-4567"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "William Johnson",
+                "rating": 5,
+                "comment": "Dr. Roberts is an excellent dentist. She performed my oral surgery with care and precision."
+            },
+            {
+                "reviewer_name": "Sophia Clark",
+                "rating": 4,
+                "comment": "I had a positive experience with Dr. Roberts. She is gentle and professional."
+            }
+        ]
+    },
+    {
+        "hospital": "BRB Hospital",
+        "name": "Dr. Richard Lee",
+        "about": "Dr. Richard Lee is a leading cardiovascular surgeon...",
+        "photo": "https://doctime.com.bd/images/homepage/consultation-card-images/04.png",
+        "specialties": [
+            "Cardiovascular Surgery",
+            "Heart Transplants",
+            "Vascular Surgery",
+            "Cardiac Rehabilitation"
+        ],
+        "appointment_time": "3:00 PM - 5:00 PM",
+        "off_days": [
+            "Monday",
+            "Saturday"
+        ],
+        "cost_per_appointment": "$90",
+        "experience": "15+ years of experience",
+        "rating": 4.5,
+        "office_location": "123 Main Street, Suite 101, Cityville, Dhaka, Bangladesh",
+        "contact_info": {
+            "email": "dr.sarah@example.com",
+            "whatsapp": "+1 (555) 123-4567"
+        },
+        "reviews": [
+            {
+                "reviewer_name": "Olivia Adams",
+                "rating": 5,
+                "comment": "Dr. Lee is an outstanding cardiovascular surgeon. He performed my heart transplant successfully."
+            },
+            {
+                "reviewer_name": "James Martin",
+                "rating": 4,
+                "comment": "I highly recommend Dr. Lee for cardiac surgery. He is skilled and compassionate."
+            }
+        ]
+    }
+]

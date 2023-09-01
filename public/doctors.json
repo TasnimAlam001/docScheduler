@@ -1,0 +1,597 @@
+[
+    {
+        "hospital":"Asgar Ali Hospital",
+        "name": "Dr. Ayesha Rahman",
+        "about": "Dr. Ayesha Rahman is a renowned cardiologist...",
+        "photo": "https://www.lasertreat.com.bd/public/images/doctors/Dr.-Sumayea-Binte-Mizan.jpeg",
+        "specialities": [
+            "Cardiology"
+        ],
+        "appointment_time": "10:00 AM - 12:00 PM",
+        "cost_per_appointment": "$50",
+        "reviews": [
+            {
+                "reviewer_name": "John Doe",
+                "rating": 5,
+                "comment": "Dr. Ayesha Rahman is an excellent cardiologist. She provided me with great care and guidance."
+            },
+            {
+                "reviewer_name": "Jane Smith",
+                "rating": 4,
+                "comment": "I had a positive experience with Dr. Rahman. She explained my condition well."
+            }
+        ]
+        
+    },
+    {
+        "hospital":"Asgar Ali Hospital",
+        "name": "Dr. Fahim Khan",
+        "about": "Dr. Fahim Khan specializes in orthopedic surgery...",
+        "photo": "https://www.lasertreat.com.bd/public/images/doctors/Dr.-Sumayea-Binte-Mizan.jpeg",
+        "specialities": [
+            "Orthopedics"
+        ],
+        "appointment_time": "2:00 PM - 4:00 PM",
+        "cost_per_appointment": "$60",
+        "reviews": [
+            {
+                "reviewer_name": "John Doe",
+                "rating": 5,
+                "comment": "Dr. Ayesha Rahman is an excellent cardiologist. She provided me with great care and guidance."
+            },
+            {
+                "reviewer_name": "Jane Smith",
+                "rating": 4,
+                "comment": "I had a positive experience with Dr. Rahman. She explained my condition well."
+            }
+        ]
+    },
+    {
+        "hospital":"Asgar Ali Hospital",
+        "name": "Dr. Siddiqur Rahman",
+        "about": "Dr. Siddiqur Rahman is a renowned cardiologist...",
+        "photo": "https://www.lasertreat.com.bd/public/images/doctors/Dr.-Sumayea-Binte-Mizan.jpeg",
+        "specialities": [
+            "Cardiology"
+        ],
+        "appointment_time": "10:00 AM - 12:00 PM",
+        "cost_per_appointment": "$50",
+        "reviews": [
+            {
+                "reviewer_name": "John Doe",
+                "rating": 5,
+                "comment": "Dr. Ayesha Rahman is an excellent cardiologist. She provided me with great care and guidance."
+            },
+            {
+                "reviewer_name": "Jane Smith",
+                "rating": 4,
+                "comment": "I had a positive experience with Dr. Rahman. She explained my condition well."
+            }
+        ]
+    },
+    {
+        "hospital":"Asgar Ali Hospital",
+        "name": "Dr. Shohel Khan",
+        "about": "Dr. Shohel Khan specializes in orthopedic surgery...",
+        "photo": "https://www.lasertreat.com.bd/public/images/doctors/Dr.-Sumayea-Binte-Mizan.jpeg",
+        "specialities": [
+            "Orthopedics"
+        ],
+        "appointment_time": "2:00 PM - 4:00 PM",
+        "cost_per_appointment": "$60",
+        "reviews": [
+            {
+                "reviewer_name": "John Doe",
+                "rating": 5,
+                "comment": "Dr. Ayesha Rahman is an excellent cardiologist. She provided me with great care and guidance."
+            },
+            {
+                "reviewer_name": "Jane Smith",
+                "rating": 4,
+                "comment": "I had a positive experience with Dr. Rahman. She explained my condition well."
+            }
+        ]
+    },
+    {
+        "hospital":"Asgar Ali Hospital",
+        "name": "Dr. Afroza Rahman",
+        "about": "Dr. Afroza Rahman is a renowned cardiologist...",
+        "photo": "https://www.lasertreat.com.bd/public/images/doctors/Dr.-Sumayea-Binte-Mizan.jpeg",
+        "specialities": [
+            "Cardiology"
+        ],
+        "appointment_time": "10:00 AM - 12:00 PM",
+        "cost_per_appointment": "$50",
+        "reviews": [
+            {
+                "reviewer_name": "John Doe",
+                "rating": 5,
+                "comment": "Dr. Ayesha Rahman is an excellent cardiologist. She provided me with great care and guidance."
+            },
+            {
+                "reviewer_name": "Jane Smith",
+                "rating": 4,
+                "comment": "I had a positive experience with Dr. Rahman. She explained my condition well."
+            }
+        ]
+    },
+    {
+        "hospital":"Asgar Ali Hospital",
+        "name": "Dr. Mionhajul Islam",
+        "about": "Dr. Fahim Khan specializes in orthopedic surgery...",
+        "photo": "https://www.lasertreat.com.bd/public/images/doctors/Dr.-Sumayea-Binte-Mizan.jpeg",
+        "specialities": [
+            "Orthopedics"
+        ],
+        "appointment_time": "2:00 PM - 4:00 PM",
+        "cost_per_appointment": "$60",
+        "reviews": [
+            {
+                "reviewer_name": "John Doe",
+                "rating": 5,
+                "comment": "Dr. Ayesha Rahman is an excellent cardiologist. She provided me with great care and guidance."
+            },
+            {
+                "reviewer_name": "Jane Smith",
+                "rating": 4,
+                "comment": "I had a positive experience with Dr. Rahman. She explained my condition well."
+            }
+        ]
+    },
+    {
+        "hospital":"Asgar Ali Hospital",
+        "name": "Dr. Ayesha Rahman",
+        "about": "Dr. Ayesha Rahman is a renowned cardiologist...",
+        "photo": "https://www.lasertreat.com.bd/public/images/doctors/Dr.-Sumayea-Binte-Mizan.jpeg",
+        "specialities": [
+            "Cardiology"
+        ],
+        "appointment_time": "10:00 AM - 12:00 PM",
+        "cost_per_appointment": "$50",
+        "reviews": [
+            {
+                "reviewer_name": "John Doe",
+                "rating": 5,
+                "comment": "Dr. Ayesha Rahman is an excellent cardiologist. She provided me with great care and guidance."
+            },
+            {
+                "reviewer_name": "Jane Smith",
+                "rating": 4,
+                "comment": "I had a positive experience with Dr. Rahman. She explained my condition well."
+            }
+        ]
+    },
+    {
+        "hospital":"Asgar Ali Hospital",
+        "name": "Dr. Fahim Khan",
+        "about": "Dr. Fahim Khan specializes in orthopedic surgery...",
+        "photo": "https://www.lasertreat.com.bd/public/images/doctors/Dr.-Sumayea-Binte-Mizan.jpeg",
+        "specialities": [
+            "Orthopedics"
+        ],
+        "appointment_time": "2:00 PM - 4:00 PM",
+        "cost_per_appointment": "$60",
+        "reviews": [
+            {
+                "reviewer_name": "John Doe",
+                "rating": 5,
+                "comment": "Dr. Ayesha Rahman is an excellent cardiologist. She provided me with great care and guidance."
+            },
+            {
+                "reviewer_name": "Jane Smith",
+                "rating": 4,
+                "comment": "I had a positive experience with Dr. Rahman. She explained my condition well."
+            }
+        ]
+    },
+    {
+        "hospital":"Anwer Khan Modern",
+        "name": "Dr. Siddiqur Rahman",
+        "about": "Dr. Siddiqur Rahman is a renowned cardiologist...",
+        "photo": "https://www.lasertreat.com.bd/public/images/doctors/Dr.-Sumayea-Binte-Mizan.jpeg",
+        "specialities": [
+            "Cardiology"
+        ],
+        "appointment_time": "10:00 AM - 12:00 PM",
+        "cost_per_appointment": "$50",
+        "reviews": [
+            {
+                "reviewer_name": "John Doe",
+                "rating": 5,
+                "comment": "Dr. Ayesha Rahman is an excellent cardiologist. She provided me with great care and guidance."
+            },
+            {
+                "reviewer_name": "Jane Smith",
+                "rating": 4,
+                "comment": "I had a positive experience with Dr. Rahman. She explained my condition well."
+            }
+        ]
+    },
+    {
+        "hospital":"Anwer Khan Modern",
+        "name": "Dr. Shohel Khan",
+        "about": "Dr. Shohel Khan specializes in orthopedic surgery...",
+        "photo": "https://www.lasertreat.com.bd/public/images/doctors/Dr.-Sumayea-Binte-Mizan.jpeg",
+        "specialities": [
+            "Orthopedics"
+        ],
+        "appointment_time": "2:00 PM - 4:00 PM",
+        "cost_per_appointment": "$60",
+        "reviews": [
+            {
+                "reviewer_name": "John Doe",
+                "rating": 5,
+                "comment": "Dr. Ayesha Rahman is an excellent cardiologist. She provided me with great care and guidance."
+            },
+            {
+                "reviewer_name": "Jane Smith",
+                "rating": 4,
+                "comment": "I had a positive experience with Dr. Rahman. She explained my condition well."
+            }
+        ]
+    },
+    {
+        "hospital":"Anwer Khan Modern",
+        "name": "Dr. Afroza Rahman",
+        "about": "Dr. Afroza Rahman is a renowned cardiologist...",
+        "photo": "https://www.lasertreat.com.bd/public/images/doctors/Dr.-Sumayea-Binte-Mizan.jpeg",
+        "specialities": [
+            "Cardiology"
+        ],
+        "appointment_time": "10:00 AM - 12:00 PM",
+        "cost_per_appointment": "$50",
+        "reviews": [
+            {
+                "reviewer_name": "John Doe",
+                "rating": 5,
+                "comment": "Dr. Ayesha Rahman is an excellent cardiologist. She provided me with great care and guidance."
+            },
+            {
+                "reviewer_name": "Jane Smith",
+                "rating": 4,
+                "comment": "I had a positive experience with Dr. Rahman. She explained my condition well."
+            }
+        ]
+    },
+    {
+        "hospital":"Anwer Khan Modern",
+        "name": "Dr. Mionhajul Islam",
+        "about": "Dr. Fahim Khan specializes in orthopedic surgery...",
+        "photo": "https://www.lasertreat.com.bd/public/images/doctors/Dr.-Sumayea-Binte-Mizan.jpeg",
+        "specialities": [
+            "Orthopedics"
+        ],
+        "appointment_time": "2:00 PM - 4:00 PM",
+        "cost_per_appointment": "$60",
+        "reviews": [
+            {
+                "reviewer_name": "John Doe",
+                "rating": 5,
+                "comment": "Dr. Ayesha Rahman is an excellent cardiologist. She provided me with great care and guidance."
+            },
+            {
+                "reviewer_name": "Jane Smith",
+                "rating": 4,
+                "comment": "I had a positive experience with Dr. Rahman. She explained my condition well."
+            }
+        ]
+    },
+    {
+        "hospital":"Anwer Khan Modern",
+        "name": "Dr. Ayesha Rahman",
+        "about": "Dr. Ayesha Rahman is a renowned cardiologist...",
+        "photo": "https://www.lasertreat.com.bd/public/images/doctors/Dr.-Sumayea-Binte-Mizan.jpeg",
+        "specialities": [
+            "Cardiology"
+        ],
+        "appointment_time": "10:00 AM - 12:00 PM",
+        "cost_per_appointment": "$50",
+        "reviews": [
+            {
+                "reviewer_name": "John Doe",
+                "rating": 5,
+                "comment": "Dr. Ayesha Rahman is an excellent cardiologist. She provided me with great care and guidance."
+            },
+            {
+                "reviewer_name": "Jane Smith",
+                "rating": 4,
+                "comment": "I had a positive experience with Dr. Rahman. She explained my condition well."
+            }
+        ]
+    },
+    {
+        "hospital":"Anwer Khan Modern",
+        "name": "Dr. Fahim Khan",
+        "about": "Dr. Fahim Khan specializes in orthopedic surgery...",
+        "photo": "https://www.lasertreat.com.bd/public/images/doctors/Dr.-Sumayea-Binte-Mizan.jpeg",
+        "specialities": [
+            "Orthopedics"
+        ],
+        "appointment_time": "2:00 PM - 4:00 PM",
+        "cost_per_appointment": "$60",
+        "reviews": [
+            {
+                "reviewer_name": "John Doe",
+                "rating": 5,
+                "comment": "Dr. Ayesha Rahman is an excellent cardiologist. She provided me with great care and guidance."
+            },
+            {
+                "reviewer_name": "Jane Smith",
+                "rating": 4,
+                "comment": "I had a positive experience with Dr. Rahman. She explained my condition well."
+            }
+        ]
+    },
+    {
+        "hospital":"Anwer Khan Modern",
+        "name": "Dr. Siddiqur Rahman",
+        "about": "Dr. Siddiqur Rahman is a renowned cardiologist...",
+        "photo": "https://www.lasertreat.com.bd/public/images/doctors/Dr.-Sumayea-Binte-Mizan.jpeg",
+        "specialities": [
+            "Cardiology"
+        ],
+        "appointment_time": "10:00 AM - 12:00 PM",
+        "cost_per_appointment": "$50",
+        "reviews": [
+            {
+                "reviewer_name": "John Doe",
+                "rating": 5,
+                "comment": "Dr. Ayesha Rahman is an excellent cardiologist. She provided me with great care and guidance."
+            },
+            {
+                "reviewer_name": "Jane Smith",
+                "rating": 4,
+                "comment": "I had a positive experience with Dr. Rahman. She explained my condition well."
+            }
+        ]
+    },
+    {
+        "hospital":"Anwer Khan Modern",
+        "name": "Dr. Shohel Khan",
+        "about": "Dr. Shohel Khan specializes in orthopedic surgery...",
+        "photo": "https://www.lasertreat.com.bd/public/images/doctors/Dr.-Sumayea-Binte-Mizan.jpeg",
+        "specialities": [
+            "Orthopedics"
+        ],
+        "appointment_time": "2:00 PM - 4:00 PM",
+        "cost_per_appointment": "$60",
+        "reviews": [
+            {
+                "reviewer_name": "John Doe",
+                "rating": 5,
+                "comment": "Dr. Ayesha Rahman is an excellent cardiologist. She provided me with great care and guidance."
+            },
+            {
+                "reviewer_name": "Jane Smith",
+                "rating": 4,
+                "comment": "I had a positive experience with Dr. Rahman. She explained my condition well."
+            }
+        ]
+    },
+    {
+        "hospital":"Asgar Ali Hospital",
+        "name": "Dr. Afroza Rahman",
+        "about": "Dr. Afroza Rahman is a renowned cardiologist...",
+        "photo": "https://www.lasertreat.com.bd/public/images/doctors/Dr.-Sumayea-Binte-Mizan.jpeg",
+        "specialities": [
+            "Cardiology"
+        ],
+        "appointment_time": "10:00 AM - 12:00 PM",
+        "cost_per_appointment": "$50",
+        "reviews": [
+            {
+                "reviewer_name": "John Doe",
+                "rating": 5,
+                "comment": "Dr. Ayesha Rahman is an excellent cardiologist. She provided me with great care and guidance."
+            },
+            {
+                "reviewer_name": "Jane Smith",
+                "rating": 4,
+                "comment": "I had a positive experience with Dr. Rahman. She explained my condition well."
+            }
+        ]
+    },
+    {
+        "hospital":"BRB Hospital",
+        "name": "Dr. Mionhajul Islam",
+        "about": "Dr. Fahim Khan specializes in orthopedic surgery...",
+        "photo": "https://www.lasertreat.com.bd/public/images/doctors/Dr.-Sumayea-Binte-Mizan.jpeg",
+        "specialities": [
+            "Orthopedics"
+        ],
+        "appointment_time": "2:00 PM - 4:00 PM",
+        "cost_per_appointment": "$60",
+        "reviews": [
+            {
+                "reviewer_name": "John Doe",
+                "rating": 5,
+                "comment": "Dr. Ayesha Rahman is an excellent cardiologist. She provided me with great care and guidance."
+            },
+            {
+                "reviewer_name": "Jane Smith",
+                "rating": 4,
+                "comment": "I had a positive experience with Dr. Rahman. She explained my condition well."
+            }
+        ]
+    },
+    {
+        "hospital":"BRB Hospital",
+        "name": "Dr. Ayesha Rahman",
+        "about": "Dr. Ayesha Rahman is a renowned cardiologist...",
+        "photo": "https://www.lasertreat.com.bd/public/images/doctors/Dr.-Sumayea-Binte-Mizan.jpeg",
+        "specialities": [
+            "Cardiology"
+        ],
+        "appointment_time": "10:00 AM - 12:00 PM",
+        "cost_per_appointment": "$50",
+        "reviews": [
+            {
+                "reviewer_name": "John Doe",
+                "rating": 5,
+                "comment": "Dr. Ayesha Rahman is an excellent cardiologist. She provided me with great care and guidance."
+            },
+            {
+                "reviewer_name": "Jane Smith",
+                "rating": 4,
+                "comment": "I had a positive experience with Dr. Rahman. She explained my condition well."
+            }
+        ]
+    },
+    {
+        "hospital":"BRB Hospital",
+        "name": "Dr. Fahim Khan",
+        "about": "Dr. Fahim Khan specializes in orthopedic surgery...",
+        "photo": "https://www.lasertreat.com.bd/public/images/doctors/Dr.-Sumayea-Binte-Mizan.jpeg",
+        "specialities": [
+            "Orthopedics"
+        ],
+        "appointment_time": "2:00 PM - 4:00 PM",
+        "cost_per_appointment": "$60",
+        "reviews": [
+            {
+                "reviewer_name": "John Doe",
+                "rating": 5,
+                "comment": "Dr. Ayesha Rahman is an excellent cardiologist. She provided me with great care and guidance."
+            },
+            {
+                "reviewer_name": "Jane Smith",
+                "rating": 4,
+                "comment": "I had a positive experience with Dr. Rahman. She explained my condition well."
+            }
+        ]
+    },
+    {
+        "hospital":"Ibn Sina Hospital",
+        "name": "Dr. Siddiqur Rahman",
+        "about": "Dr. Siddiqur Rahman is a renowned cardiologist...",
+        "photo": "https://www.lasertreat.com.bd/public/images/doctors/Dr.-Sumayea-Binte-Mizan.jpeg",
+        "specialities": [
+            "Cardiology"
+        ],
+        "appointment_time": "10:00 AM - 12:00 PM",
+        "cost_per_appointment": "$50",
+        "reviews": [
+            {
+                "reviewer_name": "John Doe",
+                "rating": 5,
+                "comment": "Dr. Ayesha Rahman is an excellent cardiologist. She provided me with great care and guidance."
+            },
+            {
+                "reviewer_name": "Jane Smith",
+                "rating": 4,
+                "comment": "I had a positive experience with Dr. Rahman. She explained my condition well."
+            }
+        ]
+    },
+    {
+        "hospital":"Ibn Sina Hospital",
+        "name": "Dr. Shohel Khan",
+        "about": "Dr. Shohel Khan specializes in orthopedic surgery...",
+        "photo": "https://www.lasertreat.com.bd/public/images/doctors/Dr.-Sumayea-Binte-Mizan.jpeg",
+        "specialities": [
+            "Orthopedics"
+        ],
+        "appointment_time": "2:00 PM - 4:00 PM",
+        "cost_per_appointment": "$60",
+        "reviews": [
+            {
+                "reviewer_name": "John Doe",
+                "rating": 5,
+                "comment": "Dr. Ayesha Rahman is an excellent cardiologist. She provided me with great care and guidance."
+            },
+            {
+                "reviewer_name": "Jane Smith",
+                "rating": 4,
+                "comment": "I had a positive experience with Dr. Rahman. She explained my condition well."
+            }
+        ]
+    },
+    {
+        "hospital":"Ibn Sina Hospital",
+        "name": "Dr. Afroza Rahman",
+        "about": "Dr. Afroza Rahman is a renowned cardiologist...",
+        "photo": "https://www.lasertreat.com.bd/public/images/doctors/Dr.-Sumayea-Binte-Mizan.jpeg",
+        "specialities": [
+            "Cardiology"
+        ],
+        "appointment_time": "10:00 AM - 12:00 PM",
+        "cost_per_appointment": "$50",
+        "reviews": [
+            {
+                "reviewer_name": "John Doe",
+                "rating": 5,
+                "comment": "Dr. Ayesha Rahman is an excellent cardiologist. She provided me with great care and guidance."
+            },
+            {
+                "reviewer_name": "Jane Smith",
+                "rating": 4,
+                "comment": "I had a positive experience with Dr. Rahman. She explained my condition well."
+            }
+        ]
+    },
+    {
+        "hospital":"Ibn Sina Hospital",
+        "name": "Dr. Mionhajul Islam",
+        "about": "Dr. Fahim Khan specializes in orthopedic surgery...",
+        "photo": "https://www.lasertreat.com.bd/public/images/doctors/Dr.-Sumayea-Binte-Mizan.jpeg",
+        "specialities": [
+            "Orthopedics"
+        ],
+        "appointment_time": "2:00 PM - 4:00 PM",
+        "cost_per_appointment": "$60",
+        "reviews": [
+            {
+                "reviewer_name": "John Doe",
+                "rating": 5,
+                "comment": "Dr. Ayesha Rahman is an excellent cardiologist. She provided me with great care and guidance."
+            },
+            {
+                "reviewer_name": "Jane Smith",
+                "rating": 4,
+                "comment": "I had a positive experience with Dr. Rahman. She explained my condition well."
+            }
+        ]
+    },
+    {
+        "hospital":"Greenway Medical Center",
+        "name": "Dr. Sana Ahmed",
+        "about": "Dr. Sana Ahmed is a dedicated pediatrician...",
+        "photo": "https://doctime.com.bd/images/homepage/consultation-card-images/04.png",
+        "specialities": ["Pediatrics"],
+        "appointment_time": "9:00 AM - 11:00 AM",
+        "cost_per_appointment": "$40",
+        "reviews": [
+            {
+                "reviewer_name": "John Doe",
+                "rating": 5,
+                "comment": "Dr. Ayesha Rahman is an excellent cardiologist. She provided me with great care and guidance."
+            },
+            {
+                "reviewer_name": "Jane Smith",
+                "rating": 4,
+                "comment": "I had a positive experience with Dr. Rahman. She explained my condition well."
+            }
+        ]
+      },
+      {
+        "hospital":"Greenway Medical Center",
+        "name": "Dr. Rashid Khan",
+        "about": "Dr. Rashid Khan is a leading dermatologist...",
+        "photo": "https://doctime.com.bd/images/homepage/consultation-card-images/04.png",
+        "specialities": ["Dermatology"],
+        "appointment_time": "3:00 PM - 5:00 PM",
+        "cost_per_appointment": "$55",
+        "reviews": [
+            {
+                "reviewer_name": "John Doe",
+                "rating": 5,
+                "comment": "Dr. Ayesha Rahman is an excellent cardiologist. She provided me with great care and guidance."
+            },
+            {
+                "reviewer_name": "Jane Smith",
+                "rating": 4,
+                "comment": "I had a positive experience with Dr. Rahman. She explained my condition well."
+            }
+        ]
+      }
+]
